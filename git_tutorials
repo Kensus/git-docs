@@ -1,0 +1,24 @@
+Git version control
+Collaboration
+
+#Keep  track of changer to the code.
+e.g create a file -> add aline -> remove a file ( cheak history).
+-Create a Repository -> write and commit -> can branch
+-pull reguest (push pull)
+-merge
+
+#Snchronize code between different people (for colaboration).
+#Git rebository e.g githug, bitbucket,assembla.
+#Test changes to code without losing the original.
+#Revert to the old version of code.
+
+Commands
+#git clone<url>
+-make copy
+-fork is to great your own copy of other people's repository
+#git add
+-adds all changed files
+e.g git add foo.cpp
+
+
+
